@@ -30,5 +30,5 @@ export default function Login() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: "#000" },
-  logo: { width: 200, height: 200, alignSelf: "center", marginTop: 50 },
+  logo: { width: 220, height: 370, alignSelf: "center", marginTop: 100 }
 });
